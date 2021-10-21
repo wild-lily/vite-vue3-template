@@ -23,7 +23,7 @@
 #### 使用 Git
 
 ```sh
-git clone git@github.com:AltmanIss/vite.git
+git clone git@github.com:AltmanIss/vite-vue3-template.git
 ```
 
 #### 使用 NPM
@@ -63,8 +63,4 @@ npm run build
 2. Q: husky 报错  
 
    A: 请检查你的项目下是否有 Git 仓库，没有则先 `git init` 初始化一个
-
-## 许可
-
-MIT Copyright © 2021 XPoet
 

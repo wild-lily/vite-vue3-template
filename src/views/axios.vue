@@ -11,7 +11,7 @@ export default defineComponent({
         console.log('res: ', res)
       })
       .catch((err) => {
-        console.log('err: ', err);
+        console.log('err: ', err)
       })
   }
 })
